@@ -1,0 +1,11 @@
+TCGA-BRCA Quality Control Report
+Date: 2026-01-02 
+
+Sample counts by subtype:
+
+ Basal   Her2   LumA   LumB Normal   <NA> 
+   197     82    571    209     40    132 
+
+Sequencing depth:
+     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+ 19225117  47631868  57622032  57967462  68298684 114015705 
